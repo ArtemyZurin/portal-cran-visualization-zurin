@@ -1,0 +1,13 @@
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+*.sln
+*.suo
+/Tools/vs_BuildTools.exe
+/.aws/
+/.codex/
+/.agents/
+.env
+.env.*

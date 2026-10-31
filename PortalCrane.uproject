@@ -1,0 +1,7 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.7",
+  "Category": "Simulation",
+  "Description": "Interactive portal crane instrument demonstrator",
+  "Modules": [{ "Name": "PortalCrane", "Type": "Runtime", "LoadingPhase": "Default" }]
+}
